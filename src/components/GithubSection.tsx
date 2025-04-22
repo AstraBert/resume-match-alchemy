@@ -41,8 +41,8 @@ const GithubSection = () => {
                 <div className="text-blue-400">$ git clone https://github.com/AstraBert/resume-matcher.git</div>
                 <div className="text-green-400">Cloning into 'resume-matcher'...</div>
                 <div className="text-[#9b87f5]">$ cd resume-matcher</div>
-                <div className="text-blue-400">$ pip install -r requirements.txt</div>
-                <div className="text-green-400">Successfully installed dependencies</div>
+                <div className="text-blue-400">$ docker compose up -d</div>
+                <div className="text-green-400">Starting containers...</div>
               </div>
             </div>
           </div>

@@ -15,13 +15,6 @@ const Navbar = () => {
           </Link>
         </div>
 
-        <div className="hidden md:flex items-center gap-6">
-          <Link to="/features" className="text-gray-300 hover:text-white transition-colors">Features</Link>
-          <Link to="/pricing" className="text-gray-300 hover:text-white transition-colors">Pricing</Link>
-          <Link to="/about" className="text-gray-300 hover:text-white transition-colors">About</Link>
-          <Link to="/support" className="text-gray-300 hover:text-white transition-colors">Support</Link>
-        </div>
-
         <div className="flex items-center gap-3">
           <a href="https://github.com/AstraBert/resume-matcher" target="_blank" rel="noopener noreferrer">
             <Button variant="ghost" className="text-gray-300 hover:text-white gap-2">

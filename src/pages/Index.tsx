@@ -1,4 +1,3 @@
-
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import WorkflowSection from "@/components/WorkflowSection";
@@ -17,9 +16,8 @@ const Index = () => {
           <div className="container mx-auto text-center">
             <p className="text-gray-400 mb-4">© {new Date().getFullYear()} Match-Your-Resume.fyi</p>
             <div className="flex flex-wrap justify-center gap-4 text-sm text-gray-400">
-              <a href="#" className="hover:text-[#9b87f5]">Privacy Policy</a>
-              <a href="#" className="hover:text-[#9b87f5]">Terms of Service</a>
-              <a href="#" className="hover:text-[#9b87f5]">Contact</a>
+              <a href="https://drive.google.com/file/d/1hXobRtbp6PBaOdsrmQ1MBrh8DxtnyFdJ/view?usp=sharing" className="hover:text-[#9b87f5]">Privacy Policy</a>
+              <a href="mailto:astraberte9@gmail.com" className="hover:text-[#9b87f5]">Contact</a>
               <a href="https://github.com/AstraBert/resume-matcher" target="_blank" rel="noopener noreferrer" className="hover:text-[#9b87f5]">GitHub</a>
             </div>
           </div>
