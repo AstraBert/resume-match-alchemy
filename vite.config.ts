@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => ({
   server: {
       host: "::",
       port: 80,
-      allowedHosts: ["match-your-resume.fyi", "172.233.244.80"]
+      allowedHosts: ["home.match-your-resume.fyi", "match-your-resume.fyi", "172.233.244.80"]
     },
   plugins: [
     react(),

@@ -20,7 +20,7 @@ const Hero = () => {
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-16">
-          <a href="https://register.match-your-resume.fyi" target="_blank" rel="noopener noreferrer">
+          <a href="https://signup.match-your-resume.fyi" target="_blank" rel="noopener noreferrer">
             <Button size="lg" className="bg-[#9b87f5] hover:bg-[#7E69AB] text-white px-8 py-6 text-lg">
               Sign Up
             </Button>

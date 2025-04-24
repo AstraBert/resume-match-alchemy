@@ -22,13 +22,13 @@ const Navbar = () => {
               <span className="hidden sm:inline">Star on GitHub</span>
             </Button>
           </a>
-          <a href="https://app.match-your-resume.fyi" target="_blank" rel="noopener noreferrer">
+          <a href="https://try.match-your-resume.fyi" target="_blank" rel="noopener noreferrer">
             <Button variant="ghost" className="text-gray-300 hover:text-white">
               <LogIn className="h-4 w-4 sm:mr-2" />
               <span className="hidden sm:inline">Log in</span>
             </Button>
           </a>
-          <a href="https://register.match-your-resume.fyi" target="_blank" rel="noopener noreferrer">
+          <a href="https://signup.match-your-resume.fyi" target="_blank" rel="noopener noreferrer">
             <Button className="bg-[#9b87f5] hover:bg-[#7E69AB] text-white">
               Sign up
             </Button>
